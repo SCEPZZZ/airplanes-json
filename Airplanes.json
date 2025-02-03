@@ -142,7 +142,42 @@
         "country": "Verenigde Staten",
         "founded": 1967,
         "logo_url": "https://example.com/mcdonnell_logo.jpg"
+      },
+      {
+      "id": 9,
+      "name": "Tupolev Tu-144",
+      "description": "Een Sovjet-supersonisch passagiersvliegtuig, vaak vergeleken met de Concorde.",
+      "capacity": 140,
+      "in_service": false,
+      "first_flight": "1968-12-31",
+      "image_url": "https://example.com/tu144.jpg",
+      "category": "Supersonic",
+      "features": ["Supersonische snelheid", "Delta vleugel", "Eerste supersonische passagiersvliegtuig"],
+      "manufacturer": {
+        "id": 104,
+        "name": "Tupolev",
+        "country": "Sovjet-Unie",
+        "founded": 1922,
+        "logo_url": "https://example.com/tupolev_logo.jpg"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Douglas DC-3",
+      "description": "Een iconisch propellervliegtuig dat de luchtvaartindustrie veranderde.",
+      "capacity": 32,
+      "in_service": false,
+      "first_flight": "1935-12-17",
+      "image_url": "https://example.com/dc3.jpg",
+      "category": "Propeller",
+      "features": ["Twee propellermotoren", "Betrouwbaar", "Grote invloed op luchtvaart"],
+      "manufacturer": {
+        "id": 105,
+        "name": "Douglas Aircraft Company",
+        "country": "Verenigde Staten",
+        "founded": 1921,
+        "logo_url": "https://example.com/douglas_logo.jpg"
       }
     }
-  ]
+   ]
 }
