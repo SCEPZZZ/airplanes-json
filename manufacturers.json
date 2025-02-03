@@ -1,0 +1,39 @@
+{
+  "manufacturers": [
+    {
+      "id": 101,
+      "name": "Boeing",
+      "country": "Verenigde Staten",
+      "founded": 1916,
+      "logo_url": "https://example.com/boeing_logo.jpg"
+    },
+    {
+      "id": 102,
+      "name": "Airbus",
+      "country": "Europa",
+      "founded": 1970,
+      "logo_url": "https://example.com/airbus_logo.jpg"
+    },
+    {
+      "id": 103,
+      "name": "Aérospatiale-BAC",
+      "country": "Frankrijk/Verenigd Koninkrijk",
+      "founded": 1962,
+      "logo_url": "https://example.com/concorde_logo.jpg"
+    },
+    {
+      "id": 104,
+      "name": "Tupolev",
+      "country": "Sovjet-Unie",
+      "founded": 1922,
+      "logo_url": "https://example.com/tupolev_logo.jpg"
+    },
+    {
+      "id": 105,
+      "name": "Douglas Aircraft Company",
+      "country": "Verenigde Staten",
+      "founded": 1921,
+      "logo_url": "https://example.com/douglas_logo.jpg"
+    }
+  ]
+}
