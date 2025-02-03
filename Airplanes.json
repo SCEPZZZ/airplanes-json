@@ -1,0 +1,148 @@
+{
+  "airplanes": [
+    {
+      "id": 1,
+      "name": "Boeing 747",
+      "description": "Een groot passagiersvliegtuig met vier motoren en een kenmerkende bult op het bovendek.",
+      "capacity": 660,
+      "in_service": true,
+      "first_flight": "1969-02-09",
+      "image_url": "https://example.com/boeing747.jpg",
+      "category": "Wide-body",
+      "features": ["Vier motoren", "Dubbeldek", "Langeafstandsvlucht"],
+      "manufacturer": {
+        "id": 101,
+        "name": "Boeing",
+        "country": "Verenigde Staten",
+        "founded": 1916,
+        "logo_url": "https://example.com/boeing_logo.jpg"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Airbus A320",
+      "description": "Een populair smal vliegtuig dat veel wordt gebruikt voor korte tot middellange afstanden.",
+      "capacity": 180,
+      "in_service": true,
+      "first_flight": "1987-02-22",
+      "image_url": "https://example.com/airbusa320.jpg",
+      "category": "Narrow-body",
+      "features": ["Twee motoren", "Glas cockpit", "Zuinig brandstofverbruik"],
+      "manufacturer": {
+        "id": 102,
+        "name": "Airbus",
+        "country": "Europa",
+        "founded": 1970,
+        "logo_url": "https://example.com/airbus_logo.jpg"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Concorde",
+      "description": "Een supersonisch passagiersvliegtuig dat in de jaren 70 en 80 werd gebruikt.",
+      "capacity": 100,
+      "in_service": false,
+      "first_flight": "1969-03-02",
+      "image_url": "https://example.com/concorde.jpg",
+      "category": "Supersonic",
+      "features": ["Supersonische snelheid", "Delta vleugel", "Gelimiteerde routes"],
+      "manufacturer": {
+        "id": 103,
+        "name": "Aérospatiale-BAC",
+        "country": "Frankrijk/Verenigd Koninkrijk",
+        "founded": 1962,
+        "logo_url": "https://example.com/concorde_logo.jpg"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Boeing 787 Dreamliner",
+      "description": "Een modern en zuinig wide-body vliegtuig met geavanceerde technologieën.",
+      "capacity": 296,
+      "in_service": true,
+      "first_flight": "2009-12-15",
+      "image_url": "https://example.com/boeing787.jpg",
+      "category": "Wide-body",
+      "features": ["Composietmateriaal", "Lage cabinedruk", "Grote ramen"],
+      "manufacturer": {
+        "id": 101,
+        "name": "Boeing",
+        "country": "Verenigde Staten",
+        "founded": 1916,
+        "logo_url": "https://example.com/boeing_logo.jpg"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Airbus A380",
+      "description": "Het grootste passagiersvliegtuig ter wereld met twee volledige dekken.",
+      "capacity": 850,
+      "in_service": true,
+      "first_flight": "2005-04-27",
+      "image_url": "https://example.com/airbusa380.jpg",
+      "category": "Wide-body",
+      "features": ["Dubbeldek", "Vier motoren", "Langeafstandsvlucht"],
+      "manufacturer": {
+        "id": 102,
+        "name": "Airbus",
+        "country": "Europa",
+        "founded": 1970,
+        "logo_url": "https://example.com/airbus_logo.jpg"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Lockheed SR-71 Blackbird",
+      "description": "Een verkenningsvliegtuig dat recordhoudt voor snelheid en hoogte.",
+      "capacity": 2,
+      "in_service": false,
+      "first_flight": "1964-12-22",
+      "image_url": "https://example.com/sr71.jpg",
+      "category": "Reconnaissance",
+      "features": ["Supersonische snelheid", "Hoogvliegend", "Stealth-technologie"],
+      "manufacturer": {
+        "id": 104,
+        "name": "Lockheed Martin",
+        "country": "Verenigde Staten",
+        "founded": 1912,
+        "logo_url": "https://example.com/lockheed_logo.jpg"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Cessna 172",
+      "description": "Een van de meest gebruikte kleine eenmotorige vliegtuigen ter wereld.",
+      "capacity": 4,
+      "in_service": true,
+      "first_flight": "1955-06-12",
+      "image_url": "https://example.com/cessna172.jpg",
+      "category": "Light aircraft",
+      "features": ["Eenvoudig te besturen", "Lage kosten", "Betrouwbaar"],
+      "manufacturer": {
+        "id": 105,
+        "name": "Cessna",
+        "country": "Verenigde Staten",
+        "founded": 1927,
+        "logo_url": "https://example.com/cessna_logo.jpg"
+      }
+    },
+    {
+      "id": 8,
+      "name": "McDonnell Douglas DC-10",
+      "description": "Een driemotorig wide-body vliegtuig dat veel gebruikt werd in de jaren 70 en 80.",
+      "capacity": 270,
+      "in_service": false,
+      "first_flight": "1970-08-29",
+      "image_url": "https://example.com/dc10.jpg",
+      "category": "Wide-body",
+      "features": ["Drie motoren", "Lang afstandsbereik", "T-tail ontwerp"],
+      "manufacturer": {
+        "id": 106,
+        "name": "McDonnell Douglas",
+        "country": "Verenigde Staten",
+        "founded": 1967,
+        "logo_url": "https://example.com/mcdonnell_logo.jpg"
+      }
+    }
+  ]
+}
