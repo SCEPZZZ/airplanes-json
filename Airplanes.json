@@ -7,7 +7,7 @@
       "capacity": 660,
       "in_service": true,
       "first_flight": "1969-02-09",
-      "image_url": "https://example.com/boeing747.jpg",
+      "image_url": "https://github.com/SCEPZZZ/airplanes-json/blob/9accb7c29e066e6b31cd377b47b19002bae47e51/images/boeing747.png",
       "category": "Wide-body",
       "features": ["Vier motoren", "Dubbeldek", "Langeafstandsvlucht"],
       "manufacturer": {
@@ -25,7 +25,7 @@
       "capacity": 180,
       "in_service": true,
       "first_flight": "1987-02-22",
-      "image_url": "https://example.com/airbusa320.jpg",
+      "image_url": "https://github.com/SCEPZZZ/airplanes-json/blob/9accb7c29e066e6b31cd377b47b19002bae47e51/images/Airbus320.png",
       "category": "Narrow-body",
       "features": ["Twee motoren", "Glas cockpit", "Zuinig brandstofverbruik"],
       "manufacturer": {
@@ -43,7 +43,7 @@
       "capacity": 100,
       "in_service": false,
       "first_flight": "1969-03-02",
-      "image_url": "https://example.com/concorde.jpg",
+      "image_url": "https://github.com/SCEPZZZ/airplanes-json/blob/9accb7c29e066e6b31cd377b47b19002bae47e51/images/concorde.png",
       "category": "Supersonic",
       "features": ["Supersonische snelheid", "Delta vleugel", "Gelimiteerde routes"],
       "manufacturer": {
@@ -61,7 +61,7 @@
       "capacity": 296,
       "in_service": true,
       "first_flight": "2009-12-15",
-      "image_url": "https://example.com/boeing787.jpg",
+      "image_url": "https://github.com/SCEPZZZ/airplanes-json/blob/9accb7c29e066e6b31cd377b47b19002bae47e51/images/Boeing_787_Dreamliner.png",
       "category": "Wide-body",
       "features": ["Composietmateriaal", "Lage cabinedruk", "Grote ramen"],
       "manufacturer": {
@@ -79,7 +79,7 @@
       "capacity": 850,
       "in_service": true,
       "first_flight": "2005-04-27",
-      "image_url": "https://example.com/airbusa380.jpg",
+      "image_url": "https://github.com/SCEPZZZ/airplanes-json/blob/9accb7c29e066e6b31cd377b47b19002bae47e51/images/Airbus%20A380.png",
       "category": "Wide-body",
       "features": ["Dubbeldek", "Vier motoren", "Langeafstandsvlucht"],
       "manufacturer": {
@@ -97,7 +97,7 @@
       "capacity": 2,
       "in_service": false,
       "first_flight": "1964-12-22",
-      "image_url": "https://example.com/sr71.jpg",
+      "image_url": "https://github.com/SCEPZZZ/airplanes-json/blob/9accb7c29e066e6b31cd377b47b19002bae47e51/images/Lockheed%20SR-71%20Blackbird.png",
       "category": "Reconnaissance",
       "features": ["Supersonische snelheid", "Hoogvliegend", "Stealth-technologie"],
       "manufacturer": {
@@ -115,7 +115,7 @@
       "capacity": 4,
       "in_service": true,
       "first_flight": "1955-06-12",
-      "image_url": "https://example.com/cessna172.jpg",
+      "image_url": "https://github.com/SCEPZZZ/airplanes-json/blob/9accb7c29e066e6b31cd377b47b19002bae47e51/images/Cessna%20172.png",
       "category": "Light aircraft",
       "features": ["Eenvoudig te besturen", "Lage kosten", "Betrouwbaar"],
       "manufacturer": {
@@ -133,7 +133,7 @@
       "capacity": 270,
       "in_service": false,
       "first_flight": "1970-08-29",
-      "image_url": "https://example.com/dc10.jpg",
+      "image_url": "https://github.com/SCEPZZZ/airplanes-json/blob/9accb7c29e066e6b31cd377b47b19002bae47e51/images/McDonnell%20Douglas%20DC-10.png",
       "category": "Wide-body",
       "features": ["Drie motoren", "Lang afstandsbereik", "T-tail ontwerp"],
       "manufacturer": {
@@ -150,7 +150,7 @@
       "capacity": 140,
       "in_service": false,
       "first_flight": "1968-12-31",
-      "image_url": "https://example.com/tu144.jpg",
+      "image_url": "https://github.com/SCEPZZZ/airplanes-json/blob/9accb7c29e066e6b31cd377b47b19002bae47e51/images/Tupolev%20Tu-144.png",
       "category": "Supersonic",
       "features": ["Supersonische snelheid", "Delta vleugel", "Eerste supersonische passagiersvliegtuig"],
       "manufacturer": {
@@ -168,7 +168,7 @@
       "capacity": 32,
       "in_service": false,
       "first_flight": "1935-12-17",
-      "image_url": "https://example.com/dc3.jpg",
+      "image_url": "https://github.com/SCEPZZZ/airplanes-json/blob/9accb7c29e066e6b31cd377b47b19002bae47e51/images/Douglas%20DC-3.png",
       "category": "Propeller",
       "features": ["Twee propellermotoren", "Betrouwbaar", "Grote invloed op luchtvaart"],
       "manufacturer": {
